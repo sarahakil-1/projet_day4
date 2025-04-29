@@ -1,0 +1,9 @@
+2025-04-29 13:32:41,426 - INFO - Added task: {'id': 1, 'description': 'Finish homework', 'priority': 2}
+2025-04-29 13:33:20,527 - INFO - Added task: {'id': 2, 'description': 'Lire le chapitre 4', 'priority': 1}
+2025-04-29 13:33:40,294 - INFO - Deleted task with ID 1
+2025-04-29 13:33:49,821 - INFO - Added task: {'id': 1, 'description': 'Test task', 'priority': 1}
+2025-04-29 13:33:49,822 - INFO - Added task: {'id': 1, 'description': 'Task to delete', 'priority': 2}
+2025-04-29 13:33:49,822 - INFO - Deleted task with ID 1
+2025-04-29 13:35:01,272 - WARNING - Corrupted or empty tasks file: tasks.json. Resetting to empty list.
+2025-04-29 13:35:26,153 - WARNING - Corrupted or empty tasks file: tasks.json. Resetting to empty list.
+2025-04-29 13:35:26,153 - INFO - Added task: {'id': 1, 'description': 'Test tâche après erreur', 'priority': 1}

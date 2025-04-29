@@ -1,0 +1,3 @@
+# Only stdlib used, optional:
+# pytest
+# coverage
